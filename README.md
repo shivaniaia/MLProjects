@@ -1,2 +1,2 @@
 # MLProjects
-A Bunch of ML Projects I've Done
+Some ML Projects I've Done
